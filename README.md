@@ -1,2 +1,2 @@
 # PHPSTORE
- Online Store E-Commerce Website in PHP and MySQL From Scratch by Valter Dambi!
+ Cloning Online Store E-Commerce Website in PHP and MySQL From Scratch by Valter Dambi!
